@@ -155,7 +155,7 @@ video{
     position: fixed;
     z-index: 1;
     top: 0;
-    left: 0;
+    left: 0px;
     background-color: rgb(0,0,0);
     background-color: rgba(0,0,0, 0.9);
     overflow-x: hidden;
@@ -165,7 +165,7 @@ video{
   .overlay-content {
     position: relative;
     top: 0%;
-    width: 0%;
+    width: 20%;
     text-align: center;
     margin-top: 30px;
   }
